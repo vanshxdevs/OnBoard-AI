@@ -1,0 +1,20 @@
+# Core Dependencies
+streamlit==1.38.0
+python-dotenv==1.0.1
+
+# LangChain and AI
+langchain==0.3.1
+langchain-community==0.3.1
+langchain-groq==0.2.0
+
+# Embeddings and Vector Store
+faiss-cpu==1.13.0
+sentence-transformers==3.3.1
+huggingface-hub>=0.20.0
+torch>=2.0.0
+
+# Document Processing
+pypdf==5.0.1
+
+# Data Generation
+Faker==30.0.0
